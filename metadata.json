@@ -1,0 +1,6 @@
+{
+  "name": "MC Train View",
+  "description": "Sensasi Ngopi & Bakery di Pinggir Rel Kereta Api Yogyakarta",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
